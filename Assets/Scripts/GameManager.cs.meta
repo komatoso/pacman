@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 591a5c38abb790f468fbd87020515c5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemigo: {fileID: 7590921763332701759, guid: 628f45dc99b16124197992eb27645225,
+      type: 3}
+  - coleccionable: {fileID: 7610174006848997231, guid: a3e3c0542e963bb4d97b096058f79147,
+      type: 3}
+  - coleccionableV: {fileID: 3882162481914564821, guid: 09531212001d246429cd559ce701817e,
+      type: 3}
+  - mainCanvas: {instanceID: 0}
+  - textScoreMainCanvas: {instanceID: 0}
+  - gameOverCanvas: {instanceID: 0}
+  - textScoreGameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
